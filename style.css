@@ -26,6 +26,8 @@ body {
     margin-top: 10px;
     font-weight: 600;
     cursor: pointer;
+}
+
   /* navbar start */
 nav {
     display: flex;
@@ -36,7 +38,7 @@ nav {
   font-size: 32px;
   font-weight: 700;
 }
-.nav button {
+nav button {
     font-size: 18px;
     font-weight: 600;
     padding: 10px;
